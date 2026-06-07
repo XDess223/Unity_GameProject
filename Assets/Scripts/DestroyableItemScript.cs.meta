@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: be5a628b8241e974f9b4888c49b490cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healOrbPrefab: {fileID: 4343939426030250518, guid: 4bfeb1707e0576d43a2e16f872c1c288, type: 3}
+  - attackOrbPrefab: {fileID: 5680730619025663787, guid: a0ee0ff7b3417e7409ccd22a01f1a27c, type: 3}
+  - destructionVFX: {instanceID: 0}
+  - hitAudioSource: {instanceID: 0}
+  - destroyAudioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

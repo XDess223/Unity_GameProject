@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - DeathZone
+  - Door_Next
+  - Door_Back
+  - ExitScreen
+  - LoseScreen
+  - PlayerUI
+  - BuffDisplayPanel
+  - BuffDurationText
+  - WinScreen
+  - Cancel_Button
+  - Exit_Button_Exit
+  - Exit_Button_Lose
+  - Moveable
+  - LivesScreen
+  - LivesText
+  - Retry_Button_Lose
+  - Retry_Button_Win
+  - Exit_Button_Win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - PlayerHitbox
+  - EnemyHitbox
+  - GroundDetection
+  - Crate
+  - Loot
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 881628301
+    locked: 0
+  - name: Ground
+    uniqueID: 4119485169
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
