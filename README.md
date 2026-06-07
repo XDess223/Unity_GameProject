@@ -4,7 +4,7 @@ An advanced, feature-rich 2D adventure platformer built with **Unity 6 (6000.0.3
 
 ---
 
-## 🎮 Game Overview & Mechanics
+## Game Overview & Mechanics
 
 **Vertirious** features a responsive player controller, interactive levels, and smart enemies. Players traverse platforms, solve navigation challenges, collect essences, manage power-up buffs, and combat intelligent enemies.
 
@@ -25,7 +25,7 @@ An advanced, feature-rich 2D adventure platformer built with **Unity 6 (6000.0.3
 
 ---
 
-## 🛠️ Tech Stack & Unity Components
+## Tech Stack & Unity Components
 
 *   **Game Engine:** Unity 6 (6000.0.32f1)
 *   **Render Pipeline:** Universal Render Pipeline (URP)
@@ -35,7 +35,7 @@ An advanced, feature-rich 2D adventure platformer built with **Unity 6 (6000.0.3
 
 ---
 
-## 📂 Key Architecture & Scripts
+## Key Architecture & Scripts
 
 The codebase is structured cleanly inside the `Assets/Scripts/` folder:
 
@@ -47,7 +47,7 @@ The codebase is structured cleanly inside the `Assets/Scripts/` folder:
 
 ---
 
-## ⌨️ Controls
+## Controls
 
 *   **Move Left / Right:** `A` / `D` or Left / Right Arrows
 *   **Jump:** `Space`
@@ -56,7 +56,7 @@ The codebase is structured cleanly inside the `Assets/Scripts/` folder:
 
 ---
 
-## 🚀 How to Setup and Run Locally
+## How to Setup and Run Locally
 
 ### Prerequisites
 *   **Unity Hub**
@@ -65,7 +65,7 @@ The codebase is structured cleanly inside the `Assets/Scripts/` folder:
 ### Steps to Run
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/vertirious-csc490.git
+    git clone https://github.com/YOUR_GITHUB_USERNAME/Unity_GameProject.git
     ```
 2.  **Open in Unity:**
     *   Open Unity Hub.
